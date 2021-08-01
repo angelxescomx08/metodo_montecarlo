@@ -1,0 +1,13 @@
+.formulario{
+    position: absolute;
+    left: 0;
+    top: 10em;
+    display: block;
+    max-width: 10%;
+    width: 40%;
+    padding: 1em;
+}
+
+.slider{
+    width: 100%;
+}

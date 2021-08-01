@@ -1,0 +1,11 @@
+.datos{
+    position: sticky;
+    z-index: 1;
+    text-align: center;
+    background: #3C5186;
+}
+
+.datos-p{
+    color: #FFF5DE;
+    font-size: 1.5rem;
+}
