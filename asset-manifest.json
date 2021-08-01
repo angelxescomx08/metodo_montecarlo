@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/metodo_montecarlo/static/css/main.8b67eb5a.chunk.css",
+    "main.js": "/metodo_montecarlo/static/js/main.e3265f71.chunk.js",
+    "main.js.map": "/metodo_montecarlo/static/js/main.e3265f71.chunk.js.map",
+    "runtime-main.js": "/metodo_montecarlo/static/js/runtime-main.78d4ae3c.js",
+    "runtime-main.js.map": "/metodo_montecarlo/static/js/runtime-main.78d4ae3c.js.map",
+    "static/css/2.6724f1ae.chunk.css": "/metodo_montecarlo/static/css/2.6724f1ae.chunk.css",
+    "static/js/2.5cbd88f6.chunk.js": "/metodo_montecarlo/static/js/2.5cbd88f6.chunk.js",
+    "static/js/2.5cbd88f6.chunk.js.map": "/metodo_montecarlo/static/js/2.5cbd88f6.chunk.js.map",
+    "index.html": "/metodo_montecarlo/index.html",
+    "static/css/2.6724f1ae.chunk.css.map": "/metodo_montecarlo/static/css/2.6724f1ae.chunk.css.map",
+    "static/css/main.8b67eb5a.chunk.css.map": "/metodo_montecarlo/static/css/main.8b67eb5a.chunk.css.map",
+    "static/js/2.5cbd88f6.chunk.js.LICENSE.txt": "/metodo_montecarlo/static/js/2.5cbd88f6.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "/metodo_montecarlo/static/media/KaTeX_Typewriter-Regular.c5441b17.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78d4ae3c.js",
+    "static/css/2.6724f1ae.chunk.css",
+    "static/js/2.5cbd88f6.chunk.js",
+    "static/css/main.8b67eb5a.chunk.css",
+    "static/js/main.e3265f71.chunk.js"
+  ]
+}
